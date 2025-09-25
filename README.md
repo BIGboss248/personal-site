@@ -1,20 +1,16 @@
-# What is this repo
+# amin_jamali_site
 
-a collection of all the tools and resources I've used to learn and work with vscode developing
-in an effort to automate the process of creating a repository with these tools included and to
-document them for future reference.  This is a work in progress and will be updated as I learn
-more descriptions are added in each file as comments but may be added here in future
+A new Flutter project.
 
-## Project layout
+## Getting Started
 
-You can create a project layout by running **create project layout** task in vs code which will create directories and files usually relevent to programming projects
+This project is a starting point for a Flutter application.
 
-## Mermaid
+A few resources to get you started if this is your first Flutter project:
 
-You can add memaid to README.MD by installing bierner.markdown-mermaid extention
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## AI
-
-### instructions
-
-In [instructions folder](./.github/instructions/) you can specify instruction on how an AI agent should do stuff based on instructions you give to it
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
