@@ -1,0 +1,23 @@
+name: resume_site
+publish_to: 'none'
+description: A fun, eye-catching resume site built with Flutter Web.
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # flutter_web_plugins:
+  # Add other dependencies as needed
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  golden_toolkit:
+
+flutter:
+  uses-material-design: true
+  assets:
+    # Add asset paths here if needed
